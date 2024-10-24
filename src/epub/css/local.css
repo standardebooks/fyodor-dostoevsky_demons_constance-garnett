@@ -99,3 +99,13 @@ span.elision{
 [epub|type~="epigraph"] span.elision{
 	font-style: normal;
 }
+
+/* Letter */
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+#chapter-2-6-3 header{
+	font-variant: small-caps;
+}
