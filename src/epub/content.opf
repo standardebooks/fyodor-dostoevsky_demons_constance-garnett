@@ -28,6 +28,8 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Demons</dc:title>
 		<meta property="file-as" refines="#title">Demons</meta>
+		<meta property="dcterms:alternative" refines="#title">The Possessed</meta>
+		<meta property="dcterms:alternative" refines="#title">The Devils</meta>
 		<dc:subject id="subject-1">Political fiction</dc:subject>
 		<dc:subject id="subject-2">Russia -- Social life and customs -- 1533-1917 -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Nihilism -- Fiction</dc:subject>
