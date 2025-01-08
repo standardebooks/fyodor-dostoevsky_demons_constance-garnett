@@ -41,9 +41,13 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A small town becomes the setting of an attempted revolution.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Young Pyotr Stepanovitch returns to the small town of his father and attempts to start a revolution that will ultimately remake the very fabric of society and bring forth a new social and political order. In order to realize his plan, Pyotr Stepanovitch recruits a few men into his group, who believe to be one cell among many spread throughout the country.&lt;/p&gt;
+			&lt;p&gt;The novel is narrated by a minor, semi-omniscient character, and focus mainly on the lives of middle and upper-class Russians. The exact goals of the characters are not made very clear, with them serving primary as social commentary at contemporary Russian society and ideas.&lt;/p&gt;
+			&lt;p&gt;The “demons” from the title are in reference to the nihilistic and revolutionary ideas that “possess” the conspirators (and Russia herself) in the novel. The episode of the Exorcism of Legion from the Gospel of Luke is the source for the allegorical title of the book.&lt;/p&gt;
+			&lt;p&gt;Like other &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Dostoevsky’s&lt;/a&gt; novels, it was first serialized in &lt;i&gt;The Russian Messenger&lt;/i&gt; before being published in a full edition in 1973. It is considered one of Dostoevsky’s most important works after his return from Siberian exile.&lt;/p&gt;
+			&lt;p&gt;This edition is based in the translation by Constance Garnett, which translated the novel as &lt;i&gt;The Possessed&lt;/i&gt;. This work has also subsequently been translated as &lt;i&gt;The Devils&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8117</dc:source>
