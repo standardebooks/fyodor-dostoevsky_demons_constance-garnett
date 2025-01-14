@@ -3,7 +3,7 @@
 	<file path="chapter-2-4.xhtml">
 		<ignore>
 			<code>t-017</code>
-			<reason>Punctuation seems to be correct.</reason>
+			<reason>A quotation mark is part of the title in “What’s to Be Done?”</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
