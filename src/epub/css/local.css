@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 /* Poem, song and verse */
 [epub|type~="z3998:poem"] p,
@@ -118,4 +119,9 @@ footer{
 	max-width: 60%;
 	text-align: justify;
 	text-indent: 0;
+}
+
+/* Block-level italics */
+blockquote[xml|lang]{
+	font-style: italic;
 }
