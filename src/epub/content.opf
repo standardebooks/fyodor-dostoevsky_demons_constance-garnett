@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/fyodor-dostoevsky/demons/constance-garnett</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-15T21:43:01Z</dc:date>
+		<meta property="dcterms:modified">2025-01-15T21:43:01Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,18 +45,17 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A small town becomes the setting of an attempted revolution.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Young Pyotr Stepanovitch returns to the small town of his father and attempts to start a revolution that will ultimately remake the very fabric of society and bring forth a new social and political order. In order to realize his plan, Pyotr Stepanovitch recruits a few men into his group, who believe to be one cell among many spread throughout the country.&lt;/p&gt;
-			&lt;p&gt;The novel is narrated by a minor, semi-omniscient character, and focus mainly on the lives of middle and upper-class Russians. The exact goals of the characters are not made very clear, with them serving primary as social commentary at contemporary Russian society and ideas. Some of the characters were likely based on real people from the period.&lt;/p&gt;
-			&lt;p&gt;The “demons” from the title are in reference to the nihilistic and revolutionary ideas that “possess” the conspirators (and Russia herself) in the novel. The episode of the Exorcism of Legion from the Gospel of Luke is the source for the allegorical title of the book.&lt;/p&gt;
-			&lt;p&gt;Although described by some of &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Dostoevsky’s&lt;/a&gt; contemporaries as too unrealistic, the novel was generally well received and remained an important literary work ever since. It is considered one of his most important works after his return from Siberian exile.&lt;/p&gt;
-			&lt;p&gt;Like other Dostoevsky’s novels, it was first serialized in &lt;i&gt;The Russian Messenger&lt;/i&gt; before being published in a full edition in 1873.&lt;/p&gt;
-			&lt;p&gt;This edition is based in the translation by Constance Garnett, which translated the novel as &lt;i&gt;The Possessed&lt;/i&gt;. This work has also subsequently been translated as &lt;i&gt;The Devils&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;Young Pyotr Stepanovitch returns to the small town of his father and attempts to start a revolution that will ultimately remake the very fabric of society and bring forth a new social and political order. In order to realize his plan, Pyotr recruits a few men into his group, who are believed to be one cell among many spread throughout the country.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Demons&lt;/i&gt; told by a semi-omniscient narrator, and focus mainly on the lives of middle- and upper-class Russians. The exact goals of the characters are not made very clear, and they serve primarily as commentary on contemporary Russian society and ideas. Some of the characters were likely based on real people.&lt;/p&gt;
+			&lt;p&gt;The episode of the Exorcism of Legion from the Gospel of Luke is the source of the allegorical title of the book; the “demons” are in reference to the nihilistic and revolutionary ideas that “possess” the conspirators (and Russia herself). The novel’s title has alternately been translated as &lt;i&gt;The Possessed&lt;/i&gt; and &lt;i&gt;The Devils&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;Although described by some of &lt;a href="https://standardebooks.org/ebooks/fyodor-dostoevsky"&gt;Dostoevsky’s&lt;/a&gt; contemporaries as too unrealistic, the novel was generally well-received and is considered one of his most important works after his return from Siberian exile.&lt;/p&gt;
+			&lt;p&gt;Like other Dostoevsky novels, it was first serialized in &lt;i&gt;The Russian Messenger&lt;/i&gt; before being published as a book in 1873.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8117</dc:source>
 		<dc:source>https://archive.org/details/possessednovelin00dost</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">259697</meta>
+		<meta property="se:reading-ease.flesch">72.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Demons</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-dostoevsky_demons_constance-garnett</meta>
 		<dc:creator id="author">Fyodor Dostoevsky</dc:creator>
@@ -98,6 +97,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
