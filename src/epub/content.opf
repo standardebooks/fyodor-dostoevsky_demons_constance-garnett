@@ -43,7 +43,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">A small town becomes the setting of an attempted revolution.</dc:description>
+		<dc:description id="description">A small town becomes swept up in the fervor of attempted revolution.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Young Pyotr Stepanovitch returns to the small town of his father and attempts to start a revolution that will ultimately remake the very fabric of society and bring forth a new social and political order. In order to realize his plan, Pyotr recruits a few men into his group, who are believed to be one cell among many spread throughout the country.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Demons&lt;/i&gt; is told by a semi-omniscient narrator, and focuses mainly on the lives of middle- and upper-class Russians. The exact goals of the characters are not made very clear, and they serve primarily as commentary on contemporary Russian society and ideas. Some of the characters were likely based on real people.&lt;/p&gt;
