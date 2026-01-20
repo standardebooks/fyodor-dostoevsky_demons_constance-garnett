@@ -55,7 +55,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8117</dc:source>
 		<dc:source>https://archive.org/details/possessednovelin00dost</dc:source>
-		<meta property="se:word-count">259697</meta>
+		<meta property="se:word-count">253903</meta>
 		<meta property="se:reading-ease.flesch">72.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Demons</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-dostoevsky_demons_constance-garnett</meta>
