@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-2-4.xhtml">
 		<ignore code="t-017">
+			<line>63</line>
 			<reason>A quotation mark is part of the title in “What’s to Be Done?”</reason>
 		</ignore>
 	</file>
